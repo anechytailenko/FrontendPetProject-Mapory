@@ -79,6 +79,12 @@ The application features a modern, dark-themed three-column layout:
 * Add CSS transitions for smooth opening/closing states.
 
 
+## UI
 
+![](UI/album_overview.png)
 
+![](UI/info_sidebar.png)
 
+![](UI/post_overview.png)
+
+![](UI/fullscreen_photo.png)
