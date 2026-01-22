@@ -6,7 +6,7 @@ rewrite in .md extention this text: Here is the generalized documentation for **
 
 # Project: Mapory - Personal Travel Journal Interface
 
-**Author:** [Your Name/Team]
+**Author:** Anna Nechytailenko
 
 ## Background
 
