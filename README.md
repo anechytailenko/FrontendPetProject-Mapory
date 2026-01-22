@@ -10,7 +10,7 @@ rewrite in .md extention this text: Here is the generalized documentation for **
 
 ## Background
 
-We want to implement a single-page application that serves as a visual database for travel memories. The application allows the user to browse a specific trip (e.g., "France Trip") and view media in an organized grid layout. The interface is designed to provide quick access to high-level statistics (photos taken, countries visited) while allowing deep dives into specific assets via a detailed sidebar. The application operates as a personal tool for the user to organize, filter, and review their travel experiences without complex role management.
+The main goal is to implement a single-page application that serves as a visual database for travel memories. The application allows the user to browse a specific trip (e.g., "France Trip") and view media in an organized grid layout. The interface is designed to provide quick access to high-level statistics (photos taken, countries visited) while allowing deep dives into specific assets via a detailed sidebar. The application operates as a personal tool for the user to organize, filter, and review their travel experiences without complex role management.
 
 ## User Stories
 
