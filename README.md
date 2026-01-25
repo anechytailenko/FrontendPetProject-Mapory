@@ -88,3 +88,7 @@ The application features a modern, dark-themed three-column layout:
 ![](UI/post_overview.png)
 
 ![](UI/fullscreen_photo.png)
+
+![](UI/share_slide.png)
+
+![](UI/invite_slide.png)
